@@ -1,2 +1,2 @@
 # arrays-bash
-Bash script with bubble sort, two-dimensional array that contains a multiplication table of a specified size.
+Bash script that performs various tasks. The program includes a function for bubble sort, which sorts an array created from arguments passed to the function. There is also a function for creating a two-dimensional array that contains a multiplication table of the specified size. Additionally, the program includes a function for numerical integration using the trapezoidal method. The program checks for positive numbers and exits if the input is invalid. The output is displayed on the standard output stream.
